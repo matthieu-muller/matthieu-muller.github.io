@@ -74,6 +74,18 @@ This consisted of:
 
 ## Education
 
+#### 2005 Université Louis Pasteur — Strasbourg
+
+DESS (Master) in Microelectronics
+
+#### 2004 Université Louis Pasteur — Strasbourg
+
+DEA (Master) in Astrophysics and Statistical Data Analysis
+
+#### 2003 University of Colorado — Boulder
+
+Bachelor in Aerospace Engineer
+
 ## Skills
 
 ## Technologies
