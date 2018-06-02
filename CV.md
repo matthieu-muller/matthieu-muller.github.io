@@ -88,9 +88,24 @@ Bachelor in Aerospace Engineer
 
 ## Skills
 
+Business Intelligence | Data Warehousing (Kimball), ETL, Data Vault, Data Lake, Dimensional Modeling
+Data Analytics | Statistics, Data Visualisation, Exploratory and Explanatory Data Analysis
+Data Science | Machine Learning, Regression, Classification, Forecasting, Clustering
+Programming | OOP, Functional Programming, CI/CD
+
 ## Technologies
 
+Programming | Go, C#, C++, php, Java, Perl, Python, R, shell
+Database | SQL Server 2008-2012-2014, MySQL 4.1 to 5.7, PostgreSQL 7.3 to 9.6, Hbase 0.95, Redis 2.6, Neo4j 1.9, Titan 0.3, Exasol 5
+OS | Windows Server 2008, Various Unix/Linux distributions (CentOS, RedHat, Ubuntu, …)
+Other | Hadoop, SVN, Git, Github, Bitbucket, Jenkins, CFEngine, Puppet, Tableau, Talend, Docker
+
 ## Languages
+
+French | Native
+English | Fluent
+German | Business Proficiency
+Spanish | Elementary Proficiency
 
 ## References
 
