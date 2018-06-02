@@ -1,3 +1,3 @@
-# My CV
+# Links
 
-info to come
+[My CV](./CV.html)
